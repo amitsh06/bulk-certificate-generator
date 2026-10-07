@@ -5,7 +5,7 @@ You send a list of recipients. It checks each one, makes a PDF certificate for e
 
 **Built with:** Python, FastAPI, SQLAlchemy (SQLite), ReportLab
 
-![Sample certificate](docs/sample-certificate.png)
+![Sample certificate](docs/example-certificate.png)
 
 ## Setup and run
 
