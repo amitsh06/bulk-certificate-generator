@@ -1,0 +1,12 @@
+{
+  "title": "Drone Mapping Fundamentals Workshop",
+  "issued_by": "Aereo Academy",
+  "issued_on": "2026-10-08",
+  "recipients": [
+    {"name": "Jane Doe", "email": "jane@example.com", "achievement": "Grade: A"},
+    {"name": "John Doe", "email": "john@example.com"},
+    {"name": "Test User", "email": "test@example.com", "achievement": "Best Field Survey"},
+    {"name": "", "email": "missing-name@example.com"},
+    {"name": "Sam Sample", "email": "not-an-email"}
+  ]
+}
